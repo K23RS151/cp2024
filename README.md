@@ -2,11 +2,11 @@
 
 ## part 1
 This is README.
-- gogigi
-- gagigigo
+- itemA
+- itemB
 
 ## Part 2
 1. sunday
-1. dada
-1. didi
-1. dada
+1. monday
+1. tuesday
+1. wednesday
